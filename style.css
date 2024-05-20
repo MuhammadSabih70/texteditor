@@ -1,0 +1,32 @@
+.nav {
+    height: 200px ;
+    width:auto ;
+    display:inline;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px; 
+    width: auto;
+
+}
+#italic{
+    height: 40ox;
+    width: 40px;
+    font-style: italic;
+}
+#underline{
+    height: 100ox;
+    width: 40px;
+    text-decoration: underline;
+}
+#text{
+    height:500px ;
+    width: 500px;
+
+}
+
+/* img{
+    height: 20ox;
+    width: 20px;
+} */
+
